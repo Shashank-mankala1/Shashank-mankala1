@@ -1,6 +1,6 @@
 ## Salve! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> <a href="https://www.linkedin.com/in/shashankmankala/">I'm Shashank Mankala</a> :man_technologist: <img align='right' src="https://komarev.com/ghpvc/?username=Shashank-mankala1&label=Profile%20views&color=0e75b6&style=flat" alt="Shashank-mankala" /> </p>
 <p align="center">
- <a href = "https://github.com/Shashank-mankala1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2351FF30F3&size=18&center=true&lines=Gonna+become+Data+scientist+One+Day+"></a>
+ <a href = "https://github.com/Shashank-mankala1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2351FF30F3&size=18&center=true&lines=Gonna+become+Data+scientist"></a>
 </p> 
 
 <!--
