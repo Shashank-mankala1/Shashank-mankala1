@@ -20,8 +20,8 @@
 <img align="right" alt="coding" width="250"  src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 
 - 🎓 Pre-Final Year CSE UG Student!.
-- 🌱 I’m currently becoming proficient at DSA..
-- 👨‍💻 I,m a Passionate Programmer and a **Web Developer**.
+- 🌱 I’m currently becoming proficient in DSA..
+- 👨‍💻 I,m a **Passionate Programmer** and a **Web Developer**.
 - 🤝 I’m looking to collaborate on Web Projects
 - ⚡ Fun fact: In my free time, you'll find me playing games,exploring internet.
 - 💬 I love to learn new things and always ready to help others.
