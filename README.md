@@ -1,48 +1,24 @@
 ## Salve! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> <a href="https://www.linkedin.com/in/shashankmankala/">I'm Shashank Mankala</a> :man_technologist: <img align='right' src="https://komarev.com/ghpvc/?username=Shashank-mankala1&label=Profile%20views&color=0e75b6&style=flat" alt="Shashank-mankala" /> </p>
 <p align="center">
 <!--  <a href = "https://github.com/Shashank-mankala1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2351FF30F3&size=18&center=true&lines=Gonna+become+Data+scientist"></a> -->
- <a href = "https://github.com/Shashank-mankala1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=%2351FF30F3&size=18&center=true&font=Lucida%20Handwriting&lines=Gonna+become+Data+scientist"></a>
+ <a href = "https://github.com/Shashank-mankala1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=%2351FF30F3&size=18&center=true&font=Lucida%20Handwriting&lines=Data+scientist"></a>
 </p> 
-
-<!--
-**Shashank-mankala1/Shashank-mankala1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--- Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <img align="right" alt="coding" width="250"  src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 
-- 🎓 Pre-Final Year CSE UG Student!.
-- 🌱 I’m currently becoming proficient in DSA..
-- 👨‍💻 I,m a **Passionate Programmer** and a **Web Developer**.
-- 🤝 I’m looking to collaborate on Web Projects
-- ⚡ Fun fact: In my free time, you'll find me playing games,exploring internet.
-- 💬 I love to learn new things and always ready to help others.
+- 🎓 CSE Graduate.
+- 🌱 I’m currently becoming proficient in Data Science.
+- 👨‍💻 I,m a **Data Scientist**,  **Passionate Programmer** and a **Web Developer**.
+- 🤝 I’m looking to collaborate on Data and Web Projects
+- ⚡ Fun fact: In my free time, you'll find me playing games and exploring the internet.
+- 💬 I love to learn new things and am always ready to help others.
 - 📫 How to reach me? **see links below** <br>
 <a href="https://www.linkedin.com/in/shashankmankala/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?logoWidth=40style=flat-square&logo=Linkedin&logoColor=white" alt="Shashank Mankala" /></a>
-<a href="https://github.com/Shashank-mankala1" target="blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?logoWidth=40style=flat-square&logo=google-chrome&logoColor=white" alt="Shashank-linkedin" /></a>
+<a href="https://github.com/Shashank-mankala1" target="blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?logoWidth=40style=flat-square&logo=google-chrome&logoColor=white" alt="Shashank-LinkedIn" /></a>
 <a href="mailto:shashankmankala.5@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?logoWidth=40style=flat-square&logo=Gmail&logoColor=white" alt="Shashank-mail" /></a>
 
 
-
-
-
-<!--  📊 **My Skills:**
-- Language: C++ for competitive programming,Python for Machine learning , Javascript for Scripting
-- Framework: Django
-- Libraries: (Numpy,Pandas,Matplotlib,Seaborn,SKikit-learn) ,ReactJS
-- OS: Linux 
-
-
-
-<h3 align="center">✨ My Coding Profiles ✨</h3> -->
+<!-- <h3 align="center">✨ My Coding Profiles ✨</h3> -->
  
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 <p align="left"> 	
