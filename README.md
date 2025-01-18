@@ -14,9 +14,9 @@
 - 💬 I love to learn new things and am always ready to help others.
 - 📫 How to reach me? **see links below** <br>
 <a href="https://www.linkedin.com/in/shashankmankala/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?logoWidth=40style=flat-square&logo=Linkedin&logoColor=white" alt="Shashank Mankala" /></a>
-<a href="https://github.com/Shashank-mankala1" target="blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?logoWidth=40style=flat-square&logo=google-chrome&logoColor=white" alt="Shashank-LinkedIn" /></a>
+<a href="https://shashank-mankala1.github.io/portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-3b5998?logoWidth=40style=flat-square&logo=google-chrome&logoColor=white" alt="Shashank-LinkedIn" /></a>
 <a href="mailto:shashankmankala.5@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?logoWidth=40style=flat-square&logo=Gmail&logoColor=white" alt="Shashank-mail" /></a>
-<a href="https://shashank-mankala1.github.io/portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/-Portfolio-0a8?logoWidth=40style=flat-square&logo=Linkedin&logoColor=white" alt="Shashank Mankala" /></a>
+
 <!-- <h3 align="center">✨ My Coding Profiles ✨</h3> -->
  
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
