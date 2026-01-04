@@ -6,10 +6,10 @@
 
 <img align="right" alt="coding" width="250"  src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 
-- 🎓 Graduate Data Science Student.
-- 🌱 I’m currently becoming proficient in Data Science.
-- 👨‍💻 I,m a **Data Scientist** and a  **Passionate Programmer**.
-- 🤝 I’m looking to collaborate on Data and Machine Learning Projects.
+- 🎓 I'm a **Data Science graduate student** with strong industry experience building **end-to-end ML, LLM, and data engineering systems**. I specialize in **GenAI, RAG systems, scalable ML pipelines, and cloud-native deployments**, with a strong focus on real-world business impact.
+- 🌱 I'm currently becoming proficient in Data Science and AI/ML.
+- 👨‍💻 I'm a **Data Scientist** and a  **Passionate Programmer**.
+- 🤝 I'm looking to collaborate on Data and AI/ML Projects.
 - ⚡ Fun fact: In my free time, you'll find me playing games and exploring the internet.
 - 💬 I love to learn new things and am always ready to help others.
 - 📫 How to reach me? **see links below** <br>
@@ -37,7 +37,13 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://thumbs.dreamstime.com/b/sql-database-icon-logo-design-ui-ux-app-orange-inscription-shadow-96841969.jpg" alt="mysql" width="40" height="40"/> </a>   </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Shashank-mankala1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 </br>
 <p align="center">
  <a href="https://github.com/Shashank-mankala1">
